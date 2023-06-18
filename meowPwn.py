@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import pexpect  # Importamos la biblioteca pexpect para interactuar con aplicaciones de línea de comandos.
 import argparse  # Importamos el módulo argparse para analizar argumentos de línea de comandos.
 
